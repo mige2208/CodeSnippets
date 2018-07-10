@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>CodeMap</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>#pragma mark - IBOutlet
+
+#pragma mark - Var
+
+#pragma mark - life cycle
+/**
+ 初始化变量
+ */
+- (void)initConfig{
+    [super initConfig];
+    
+}
+
+- (void)viewDidLoad{
+    [super viewDidLoad];
+    
+}
+
+#pragma mark - 初始化视图
+/**
+ 初始化视图
+ */
+- (void)initSubviews{
+    [super initSubviews];
+    
+}
+
+#pragma mark - 设置数据
+/**
+ 设置数据
+ */
+- (void)configData{
+    
+    
+}
+
+#pragma mark - 网络请求
+/**
+ 请求数据
+ */
+- (void)requestData{
+    
+}
+
+#pragma mark - 更新数据
+
+#pragma mark - Action
+
+#pragma mark - 页面跳转
+
+#pragma mark - delegate
+
+#pragma mark - 视图相关
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>92BA5165-450D-40AA-BF01-7849C93A0B14</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>代码地图</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
